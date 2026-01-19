@@ -1,4 +1,4 @@
-# Ex Machina
+# ![ex machina](./logo.svg)
 
 Building open-source AI tools for developers.
 
