@@ -6,11 +6,11 @@ Building open-source AI tools for developers.
 
 ## Projects
 
+### [opencode-orca](https://github.com/ex-machina-co/opencode-orca)
+OpenCode plugin for deterministic and safe multi-agent orchestration.
+
 ### [opencode-facets](https://github.com/ex-machina-co/opencode-facets)
 Bundles agents, skills, commands, and tools together as facets.
-
-### [opencode-orca](https://github.com/ex-machina-co/opencode-orca)
-OpenCode plugin for Orca + Specialists agent orchestration.
 
 ### [opencode-anthropic-auth](https://github.com/ex-machina-co/opencode-anthropic-auth)
 Fork of the OpenCode auth plugin for Anthropic.
